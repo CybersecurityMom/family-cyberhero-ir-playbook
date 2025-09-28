@@ -1,10 +1,10 @@
-# 🦸 Family CyberHero Incident Response Playbook
+# Family CyberHero Incident Response Playbook
 
 A simple, fun project for families with kids (ages 6–12) to learn **incident response** and **protecting data** by pretending to run a mini business.
 
 ---
 
-## 👩‍💻 PART 1 — Build the Repository (step-by-step)
+## PART 1 — Build the Repository (step-by-step)
 
 ### 1) Create your GitHub repo
 1. Log in to https://github.com → click the **+** (top right) → **New repository**  
